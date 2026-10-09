@@ -26,6 +26,10 @@ nepředstavuje růst celkových depozit.
 - Jaké reakce klientů následovaly po oslovení v jednotlivých
   komunikačních kanálech?
 
+## Ukázka prostředí
+
+![Databricks Genie — úvodní obrazovka s doporučenými otázkami](genie-overview.png)
+
 ## Interpretace výsledků
 
 Veškerá data jsou syntetická a výsledky slouží pouze
