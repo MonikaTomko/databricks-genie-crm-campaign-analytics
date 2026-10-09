@@ -6,7 +6,7 @@ Projekt propojuje přípravu dat, definici obchodních metrik a nastavení Genie
 
 ## Ukázkový scénář
 
-První scénář se zaměřuje na vyhodnocení depozitní kampaně. Pracuje se syntetickými daty a umožňuje:
+Ukázkový scénář se zaměřuje na vyhodnocení depozitní kampaně. Pracuje se syntetickými daty a umožňuje:
 
 - porovnávat klientské segmenty a varianty A/B,
 - porovnávat oslovené klienty s kontrolní skupinou,
@@ -53,3 +53,11 @@ nepředstavují úplné náklady kampaně.
 Chat běží v prostředí Databricks a vyžaduje odpovídající
 přístupová oprávnění. Tento repozitář slouží k dokumentaci
 řešení; samotné zveřejnění na GitHubu nezpřístupňuje živý chat.
+
+## Notebook
+
+Složka [notebooks](notebooks/) obsahuje notebook použitý
+pro přípravu syntetických dat v Databricks.
+
+Výchozí notebook jsem spustila v Databricks, provedla dílčí úpravy a nakonfigurovala
+Genie včetně popisu a doporučených otázek.
