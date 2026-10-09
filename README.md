@@ -30,6 +30,15 @@ nepředstavuje růst celkových depozit.
 
 ![Databricks Genie — úvodní obrazovka s doporučenými otázkami](genie-overview.png)
 
+## Ukázka analýzy
+
+**Otázka:** Jak se změnila celková depozita klientů po 30 a 90 dnech
+v oslovené skupině oproti kontrolní skupině?
+
+![Odpověď Genie — porovnání změny depozit](genie-deposit-results.png)
+![Odpověď Genie — porovnání změny depozit](genie-deposit-results_2.png)
+![Odpověď Genie — porovnání změny depozit](genie-deposit-results_3.png)
+
 ## Interpretace výsledků
 
 Veškerá data jsou syntetická a výsledky slouží pouze
